@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "telegram_weather_bot_service",
+		"stack": "node10",
+		"type": "basicio"
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"name": "telegram_weather_bot_service",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "shankarr+1001@zohocorp.com",
+	"dependencies": {
+		"axios": "^0.21.1",
+		"zcatalyst-sdk-node": "^1.5.2"
+	}
+}

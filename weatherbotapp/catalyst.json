@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "targets": [
+      "telegram_weather_bot_function",
+      "telegram_weather_bot_service"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}

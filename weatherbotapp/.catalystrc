@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": 3296000000457002,
+      "name": "TelegramWeatherBot",
+      "domain": {
+        "id": 10030275956,
+        "name": "telegramweatherbot-698833516.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "698833516",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

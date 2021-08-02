@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "telegram_weather_bot_function",
+		"stack": "node10",
+		"type": "advancedio"
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}
